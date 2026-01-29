@@ -29,3 +29,4 @@ Step3: Commit some changes
 Create a new notes markdownfile: touch notes.md Add it to your staging area: git add notes.md Open your notes document and add any note that you may want to keep. Add your new changes to the staging area: git add notes.md Commit your changes to your local repository: git commit -m "added notes document to my repository"
 
 Post your commit message to the discord challenge thread for your first successful commit.
+git add.
